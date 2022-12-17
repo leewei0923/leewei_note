@@ -11,12 +11,8 @@
             "id": "d7708d9cf3e5743e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12-17.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0a7df768c80e35a4",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-12-17.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7708d9cf3e5743e",
+  "active": "822bb6a969768f7a",
   "lastOpenFiles": [
     "公务员考试/言语理解与运用.md",
     "公务员考试/数量关系.md",
