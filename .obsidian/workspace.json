@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "e84fcbda804c084d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eebc45aee29679e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7708d9cf3e5743e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公务员考试/言语理解与运用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58746d43abcb83ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d185c6001c1c87d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822bb6a969768f7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b65a4f49c2b908ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da93eae58f49f996",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a7df768c80e35a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e76a1fd681bb41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f846bdbdf46c36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "公务员考试/言语理解与运用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5e06048b777e68c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "公务员考试/言语理解与运用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "776700a5668ace91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5fbdf18fb4e74ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公务员考试/言语理解与运用.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7708d9cf3e5743e",
+  "lastOpenFiles": [
+    "公务员考试/数量关系.md",
+    "谷歌插件(xiaoyu-collect)规划.md",
+    "公务员考试/言语理解与运用.md",
+    "公务员考试/成语积累.md"
+  ]
+}
