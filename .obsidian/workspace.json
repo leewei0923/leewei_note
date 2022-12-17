@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公务员考试/言语理解与运用.md",
+                "file": "2022-12-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a7df768c80e35a4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公务员考试/言语理解与运用.md",
+                "file": "2022-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公务员考试/言语理解与运用.md",
+                "file": "2022-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公务员考试/言语理解与运用.md"
+                "file": "2022-12-17.md"
               }
             }
           }
@@ -138,9 +139,9 @@
   },
   "active": "d7708d9cf3e5743e",
   "lastOpenFiles": [
+    "公务员考试/言语理解与运用.md",
     "公务员考试/数量关系.md",
     "谷歌插件(xiaoyu-collect)规划.md",
-    "公务员考试/言语理解与运用.md",
     "公务员考试/成语积累.md"
   ]
 }
