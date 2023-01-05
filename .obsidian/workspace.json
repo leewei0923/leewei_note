@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4eebc45aee29679e",
+        "id": "b500a2741ecb4cac",
         "type": "tabs",
         "children": [
           {
-            "id": "d7708d9cf3e5743e",
+            "id": "d7b9bc2e54e11d6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "flutter/小用法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flutter/小用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flutter/小用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "flutter/小用法.md"
+              }
             }
           }
         ]
@@ -128,11 +136,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "822bb6a969768f7a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d7b9bc2e54e11d6a",
   "lastOpenFiles": [
-    "公务员考试/言语理解与运用.md",
-    "公务员考试/数量关系.md",
-    "谷歌插件(xiaoyu-collect)规划.md",
-    "公务员考试/成语积累.md"
+    "日常/javaScript 代码片段.md",
+    "keep-focus.md",
+    "flutter/小用法.md",
+    "Untitled Diagram.svg",
+    "aminion(中文暂定).md",
+    "ES/Intl.md",
+    "2022-12-22.md",
+    "公务员考试/成语积累.md",
+    "flutter实战/chapter12/flutter_web.md",
+    "flutter实战/chapter3/text.md"
   ]
 }
