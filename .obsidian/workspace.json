@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b500a2741ecb4cac",
+        "id": "ae9ca2b6a9626fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b9bc2e54e11d6a",
+            "id": "4097c1f13dce5375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/小用法.md",
+                "file": "2022-12-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6515ccb24ed3179f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刷题/刷题日记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,9 +49,11 @@
             "id": "822bb6a969768f7a",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "ES/vue api 概览.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -64,12 +79,23 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0717bcb8d0723d14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0a7df768c80e35a4",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/小用法.md",
+                "file": "刷题/刷题日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/小用法.md",
+                "file": "刷题/刷题日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +151,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/小用法.md"
+                "file": "刷题/刷题日记.md"
               }
             }
+          },
+          {
+            "id": "ad05f87eb7b7c224",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,17 +181,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d7b9bc2e54e11d6a",
+  "active": "6515ccb24ed3179f",
   "lastOpenFiles": [
+    "2022-12-22.md",
+    "Aminion - 看板.md",
+    "Untitled Diagram.svg",
+    "ES/vue api 概览.md",
+    "aminion(中文暂定).md",
+    "未命名.canvas",
+    "flutter/小用法.md",
     "日常/javaScript 代码片段.md",
     "keep-focus.md",
-    "flutter/小用法.md",
-    "Untitled Diagram.svg",
-    "aminion(中文暂定).md",
-    "ES/Intl.md",
-    "2022-12-22.md",
-    "公务员考试/成语积累.md",
-    "flutter实战/chapter12/flutter_web.md",
-    "flutter实战/chapter3/text.md"
+    "ES/Intl.md"
   ]
 }

@@ -1,4 +1,6 @@
 [
   "highlightr-plugin",
-  "drawio-obsidian"
+  "obsidian-kanban",
+  "calendar",
+  "obsidian-mind-map"
 ]
