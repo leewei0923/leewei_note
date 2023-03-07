@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "77143eb42661e8fa",
+        "id": "b0410204aea3a8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "543ba244e9f1c9c7",
+            "id": "a3680da467246102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES/知识点梳理.md",
+                "file": "攻坚数据结构/一、数据结构的基本概念.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a5f20566aef9dc1",
+            "id": "0f8065758fa5dec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES/知识点梳理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f0ef8f8ff02c8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue.md",
+                "file": "C++/再见C++.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,18 +45,6 @@
         "id": "d185c6001c1c87d7",
         "type": "tabs",
         "children": [
-          {
-            "id": "822bb6a969768f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ES/vue api 概览.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "b65a4f49c2b908ba",
             "type": "leaf",
@@ -103,11 +79,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0a7df768c80e35a4",
@@ -123,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue.md",
+                "file": "C++/再见C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue.md",
+                "file": "C++/再见C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue.md"
+                "file": "C++/再见C++.md"
               }
             }
           },
@@ -176,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,25 +162,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f0ef8f8ff02c8d7",
+  "active": "0f8065758fa5dec1",
   "lastOpenFiles": [
-    "ES/知识点梳理.md",
-    "ES/vue api 概览.md",
+    "未命名.md",
+    "C++/再见C++.md",
+    "C++",
+    "攻坚数据结构/一、数据结构的基本概念.md",
+    "实习日记/第四周.md",
+    "攻坚数据结构/数据结构计划表.md",
+    "攻坚数据结构/排序.md",
     "aminion(中文暂定).md",
-    "Aminion - 看板.md",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "乱记/2023-03-05.md",
+    "ES/vue api 概览.md",
+    "vue.md",
+    "乱记",
+    "随手记/2023年二月.md",
+    "实习日记/第三周.md",
+    "实习日记/第二周.md",
+    "攻坚数据结构/未命名.canvas",
+    "攻坚数据结构",
+    "010模板",
+    "模板",
+    "新建文件夹",
+    "随手记",
     "keep-focus.md",
-    "类型、值和变量.svg.md",
-    "类型、值和变量.svg",
     "rust/index.md",
-    "2022-12-22.md",
-    "刷题/刷题日记.md"
+    "Aminion - 看板.md",
+    "实习日记/seventh-day 2023-02-10.md",
+    "实习日记/first-day 2023-02-03.md",
+    "实习日记/sixth-day 2023-02-09.md",
+    "实习日记/fifth-day 2023-02-08.md"
   ]
 }
